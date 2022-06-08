@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactNativeTest/static/css/main.9ba9c11b.css",
+    "main.js": "/ReactNativeTest/static/js/main.af35b596.js",
+    "static/js/787.ebaa048f.chunk.js": "/ReactNativeTest/static/js/787.ebaa048f.chunk.js",
+    "static/media/SEGA.woff": "/ReactNativeTest/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ReactNativeTest/index.html",
+    "main.9ba9c11b.css.map": "/ReactNativeTest/static/css/main.9ba9c11b.css.map",
+    "main.af35b596.js.map": "/ReactNativeTest/static/js/main.af35b596.js.map",
+    "787.ebaa048f.chunk.js.map": "/ReactNativeTest/static/js/787.ebaa048f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba9c11b.css",
+    "static/js/main.af35b596.js"
+  ]
+}
